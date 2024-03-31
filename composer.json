@@ -30,7 +30,7 @@
     },
     "autoload": {
         "files": [
-            "src/theme-frontend-mytheme/registration.php"
+            "src/theme-frontend-alultheme/registration.php"
         ],
         "psr-4": {
         }
